@@ -1,0 +1,9 @@
+[submodule "binary-search-io"]
+	path = binary-search-io
+	url = https://github.com/adriandarian/binary-search-io.git
+[submodule "leetcode"]
+	path = leetcode
+	url = https://github.com/adriandarian/leetcode.git
+[submodule "hackerrank"]
+	path = hackerrank
+	url = https://github.com/adriandarian/hackerrank.git
